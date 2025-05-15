@@ -1,4 +1,4 @@
-# Colab Calculador
+# Calculadora
 
 Este é um projeto pessoal de uma calculadora simples, feita com HTML, CSS e JavaScript.
 
